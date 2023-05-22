@@ -48,6 +48,7 @@ img {
 /* LAYOUT */
 .container {
     max-width: 1140px;
+    /* width: 1140px; */
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -131,6 +132,9 @@ img {
 
 @media screen and (max-width: 768px) {
 
+    .container {
+        width: 100%;
+    }
 }
 
 
@@ -148,5 +152,13 @@ img {
 
     .lessons .col img, .steps .col img {
         margin-bottom: 2rem;
+    }
+
+    .why-us{
+        background-color: blueviolet;
+    }
+
+    .steps {
+        margin: 0;
     }
 }
