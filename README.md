@@ -18,4 +18,6 @@ Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un
 Per poter vedere correttamente un sito responsive è necessaria l'aggiunta del tag:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-:avviso: Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox :laptop_parrot:
+Avviso: 
+
+Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox :laptop_parrot:
